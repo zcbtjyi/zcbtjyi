@@ -55,7 +55,7 @@ core_diversity_analyses.py
 -m /map.tsv
 -t /SILVA_128_QIIME_release_/trees/97/97_otus.tre
 -e 601 
--o CDout.html
+-o CDout
 
 
 
